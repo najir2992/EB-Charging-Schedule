@@ -1,0 +1,7 @@
+{
+  "admin": {
+    "name": "Administrator",
+    "role": "admin",
+    "password": "pbkdf2_sha256$200000$6785dee47686632c8add84cd6502ccbc$e731efd08687799fb9a42cb47fc422a10454cdb218b269d97707cabdb8ebb634"
+  }
+}
